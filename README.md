@@ -5,4 +5,4 @@ This Repository contains some of the code that I wrote during my learing of C/C+
 
 # feel free to contribute 
 
-by [ Harsh Singhvi](https://harshisnghvi.com)
+by [ Harsh Singhvi](https://harshsinghvi.com)
