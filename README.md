@@ -5,4 +5,4 @@
 
 # feel free to contribute 
 
-[ins](harshisnghvi.com)
+[by Harsh Singhvi](harshisnghvi.com)
